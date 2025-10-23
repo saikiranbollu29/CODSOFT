@@ -108,4 +108,4 @@ CODESOFT/
 │ └─ README.md
 │
 ├─ requirements.txt
-└─ main_README.md ← (you can rename the previous combined one to this)
+└─ main_README.md 
